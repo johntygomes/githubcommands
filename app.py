@@ -8,3 +8,5 @@ print(result)
 
 
 #Player Two Works On Subtract On Substract Branch
+#git checkout -b subtract      ...create a new branch named subtract
+result = num_1 - num_2
