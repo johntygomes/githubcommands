@@ -11,5 +11,3 @@ print(result)
 #git checkout -b subtract      ...create a new branch named subtract
 result = num_1 - num_2
 #Spoilt the code
-#added a line
-#added another line
