@@ -6,6 +6,6 @@ num_2 = int(input("ENTER A NUMBER"))
 add_result = num_1 + num_2
 print(add_result)
 ####################################-----ADDING SUBTRACT
-print(subtract_result)
 subtract_result = num_2 - num_1
+print(subtract_result)
 #################################################
